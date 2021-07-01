@@ -1,0 +1,6 @@
+__pycache__/
+.git/
+.idea/
+inputimage.jpg
+Procfile
+runtime.txt
